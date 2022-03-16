@@ -1,1 +1,2 @@
-# Data-Science-and-Business-Analytic-
+# Data-Science-and-Business-Analytic
+GRIP@ Sparks Foundation web development and designing internship Task-2 Data Science and Business Analytic in which the Prediction Using Supervised Machine Learning. This repository contains the tasks that I completed while working as an intern for The Sparks Foundation. Internship Category - Web Development and Design Internship Duration - 1 Month ( FEB-2021 ) Internship Type - Work from Home
